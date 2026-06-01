@@ -1,3 +1,4 @@
 pre-commit 4.6.0
 shfmt 3.13.1
 terraform 1.15.5
+yamlfmt 0.21.0
